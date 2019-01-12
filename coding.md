@@ -5,3 +5,4 @@
 - What is Softplus? [[wiki]](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) [[tf_api]](https://www.tensorflow.org/api_docs/python/tf/math/softplus)
 - Tensorflow API: [[tf.identity]](https://www.tensorflow.org/api_docs/python/tf/identity) [[tf.layers.dense]](https://www.tensorflow.org/api_docs/python/tf/layers/dense)
 - tf.nn.relu vs. tf.contrib.layers.relu? [[stackoverflow]](https://stackoverflow.com/questions/42773379/tf-nn-relu-vs-tf-contrib-layers-relu)
+- __Port Forwarding with SSH__ [[stackoverflow]](https://stackoverflow.com/questions/37987839/how-can-i-run-tensorboard-on-a-remote-server)
