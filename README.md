@@ -7,6 +7,7 @@ Recording the papers I read every day
 - [Wide Residual Networks](https://arxiv.org/abs/1605.07146) (2016 BMVC)
 - [Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027) (2016 ECCV)
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) (2015)
+- [A study of the effect of JPG compression on adversarial images](https://arxiv.org/pdf/1608.00853.pdf) (2016)
 
 
 ### 2019-01-12
