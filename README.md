@@ -3,9 +3,15 @@ Recording the papers I read every day
 
 ## Paper
 
+### 2019-01-15
+- [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404) (AAAI 2018)
+- [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199) (EMNLP 2018)
+- [Disentangling Adversarial Robustness and Generalization](https://arxiv.org/pdf/1812.00740.pdf) (2018)
+
+
 ### 2019-01-14
-- [Wide Residual Networks](https://arxiv.org/abs/1605.07146) (2016 BMVC)
-- [Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027) (2016 ECCV)
+- [Wide Residual Networks](https://arxiv.org/abs/1605.07146) (BMVC 2016)
+- [Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027) (ECCV 2016)
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) (2015)
 - [A study of the effect of JPG compression on adversarial images](https://arxiv.org/pdf/1608.00853.pdf) (2016)
 
