@@ -6,7 +6,8 @@ Recording the papers I read every day
 ### 2019-01-15
 - [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404) (AAAI 2018)
 - [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199) (EMNLP 2018)
-- [Disentangling Adversarial Robustness and Generalization](https://arxiv.org/pdf/1812.00740.pdf) (2018)
+- [Disentangling Adversarial Robustness and Generalization](https://arxiv.org/abs/1812.00740) (2018)
+- [TensorFlow Distributions](https://arxiv.org/pdf/1711.10604) (2017)
 
 
 ### 2019-01-14
