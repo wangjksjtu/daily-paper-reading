@@ -4,8 +4,9 @@ Recording the papers I read every day
 ## Paper
 
 ### 2019-01-16
-- [Improving DNN Robustness to Adversarial Attacks using Jacobian Regularization] (https://arxiv.org/abs/1803.08680) (ECCV 2018)
-- 
+- [Improving DNN Robustness to Adversarial Attacks using Jacobian Regularization](https://arxiv.org/abs/1803.08680) (ECCV 2018)
+- [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204) (ICLR 2018)
+- [Understanding and Enhancing the Transferability of Adversarial Examples](https://arxiv.org/abs/1802.09707) (2018)
 
 ### 2019-01-15
 - [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404) (AAAI 2018)
