@@ -3,6 +3,10 @@ Recording the papers I read every day
 
 ## Paper
 
+### 2019-01-16
+- [Improving DNN Robustness to Adversarial Attacks using Jacobian Regularization] (https://arxiv.org/abs/1803.08680) (ECCV 2018)
+- 
+
 ### 2019-01-15
 - [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404) (AAAI 2018)
 - [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199) (EMNLP 2018)
