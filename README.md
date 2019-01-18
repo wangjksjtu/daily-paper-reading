@@ -3,6 +3,11 @@ Recording the papers I read every day
 
 ## Paper
 
+### 2019-01-18
+- [Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](https://openreview.net/forum?id=HyxPx3R9tm) (ICLR 2019)
+- [IB-GAN: Disentangled Representation Learning with Information Bottleneck GAN](https://openreview.net/forum?id=ryljV2A5KX) (2018) 
+- [Transfer and Exploration via the Information Bottleneck](https://openreview.net/forum?id=HyxPx3R9tm) (ICLR 2019)
+
 ### 2019-01-16
 - [Improving DNN Robustness to Adversarial Attacks using Jacobian Regularization](https://arxiv.org/abs/1803.08680) (ECCV 2018)
 - [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204) (ICLR 2018)
