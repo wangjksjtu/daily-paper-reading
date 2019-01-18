@@ -9,6 +9,7 @@ Recording the papers I read every day
 - [Transfer and Exploration via the Information Bottleneck](https://openreview.net/forum?id=HyxPx3R9tm) (ICLR 2019)
 - [Evaluating the Robustness of Neural Networks: An Extreme Value Theory Approach](https://openreview.net/forum?id=BkUHlMZ0b&noteId=Hyc-dnN6f&noteId=SkzxpFrpz) (ICLR 2018)
 - [Improved Robustness to Adversarial Examples Using Lipschitz Regularization of the Loss](https://openreview.net/forum?id=HkxAisC9FQ) (ICLR 2019 - Rejected)
+- [L2-Nonexpansive Neural Networks](https://openreview.net/forum?id=ByxGSsR9FQ) (ICLR 2019)
 
 ### 2019-01-16
 - [Improving DNN Robustness to Adversarial Attacks using Jacobian Regularization](https://arxiv.org/abs/1803.08680) (ECCV 2018)
