@@ -6,6 +6,8 @@ Recording the papers I read every day
 ### 2019-02-02
 - [Deep Semantic Role Labeling: What Works and What’s Next](http://aclweb.org/anthology/P17-1044) (ACL 2017) - [[talk]](https://www.youtube.com/watch?v=aptipHMTmmk) [[code]](https://github.com/luheng/deep_srl)
 - [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/pdf/1804.08199.pdf) (EMNLP 2018) - [[code]](https://github.com/strubell/LISA)
+- [Deep Semantic Role Labeling with Self-Attention](https://arxiv.org/pdf/1712.01586.pdf) (AAAI 2018) - [[code]](https://github.com/XMUNLP/Tagger)
+
 
 ### 2019-01-18
 - [Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](https://openreview.net/forum?id=HyxPx3R9tm) (ICLR 2019)
@@ -15,10 +17,12 @@ Recording the papers I read every day
 - [Improved Robustness to Adversarial Examples Using Lipschitz Regularization of the Loss](https://openreview.net/forum?id=HkxAisC9FQ) (ICLR 2019 - Rejected)
 - [L2-Nonexpansive Neural Networks](https://openreview.net/forum?id=ByxGSsR9FQ) (ICLR 2019)
 
+
 ### 2019-01-16
 - [Improving DNN Robustness to Adversarial Attacks using Jacobian Regularization](https://arxiv.org/abs/1803.08680) (ECCV 2018)
 - [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204) (ICLR 2018)
 - [Understanding and Enhancing the Transferability of Adversarial Examples](https://arxiv.org/abs/1802.09707) (2018)
+
 
 ### 2019-01-15
 - [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404) (AAAI 2018)
