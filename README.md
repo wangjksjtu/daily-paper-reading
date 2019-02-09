@@ -3,6 +3,10 @@ Recording the papers I read every day
 
 ## Paper
 
+### 2019-02-09
+- [Feature Denoising for Improving Adversarial Robustness](https://arxiv.org/abs/1812.03411) (2018) - [[code]](https://github.com/facebookresearch/ImageNet-Adversarial-Training)
+- [Curriculum Adversarial Training](https://arxiv.org/pdf/1805.04807.pdf) (IJCAI 2018)
+
 ### 2019-02-02
 - [Deep Semantic Role Labeling: What Works and What’s Next](http://aclweb.org/anthology/P17-1044) (ACL 2017) - [[talk]](https://www.youtube.com/watch?v=aptipHMTmmk) [[code]](https://github.com/luheng/deep_srl)
 - [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/pdf/1804.08199.pdf) (EMNLP 2018) - [[code]](https://github.com/strubell/LISA)
