@@ -3,6 +3,12 @@ Recording the papers I read every day
 
 ## Paper
 
+### 2019-02-11
+- [CAAD 2018: Generating Transferable Adversarial Examples](https://arxiv.org/pdf/1811.03456.pdf) (2018) - [[code]](https://arxiv.org/pdf/1811.03456.pdf) [[rankings]](http://hof.geekpwn.org/caad/en/index.html)
+- [CAAD 2018: Iterative Ensemble Adversarial Attack](https://arxiv.org/pdf/1811.03456.pdf) (2018)
+- [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204) (2017)
+- [Mitigating Adversarial Effects Through Randomization](https://arxiv.org/abs/1711.01991) (ICLR 2018) - [[code]](https://github.com/cihangxie/NIPS2017_adv_challenge_defense)
+
 ### 2019-02-09
 - [Feature Denoising for Improving Adversarial Robustness](https://arxiv.org/abs/1812.03411) (2018) - [[code]](https://github.com/facebookresearch/ImageNet-Adversarial-Training)
 - [Curriculum Adversarial Training](https://arxiv.org/pdf/1805.04807.pdf) (IJCAI 2018)
