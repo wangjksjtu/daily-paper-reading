@@ -3,6 +3,16 @@ Recording the papers I read every day
 
 ## Paper
 
+### 2019-03-17
+- [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697) (ASIACCS 2017)
+- [Network In Network](https://arxiv.org/abs/1312.4400) (ICLR 2014)
+- [Houdini: Fooling Deep Structured Prediction Models](https://arxiv.org/abs/1707.05373) (NIPS 2017)
+- [Spectral Signatures in Backdoor Attacks](https://arxiv.org/abs/1811.00636) (NIPS 2018)
+- [Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning](https://arxiv.org/abs/1804.00308) (IEEE S&P 2018)
+- [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599) (CVPR 2016)
+- [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401) (CVPR 2017)
+- [Transferable Adversarial Attacks for Image and Video Object Detection](https://arxiv.org/abs/1811.12641) (2018)
+
 ### 2019-02-11
 - [CAAD 2018: Generating Transferable Adversarial Examples](https://arxiv.org/pdf/1811.03456.pdf) (2018) - [[code]](https://arxiv.org/pdf/1811.03456.pdf) [[rankings]](http://hof.geekpwn.org/caad/en/index.html)
 - [CAAD 2018: Iterative Ensemble Adversarial Attack](https://arxiv.org/pdf/1811.03456.pdf) (2018)
