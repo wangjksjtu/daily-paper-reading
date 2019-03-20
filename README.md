@@ -3,6 +3,18 @@ Recording the papers I read every day
 
 ## Paper
 
+### 2019-03-20
+- [Wasserstein Adversarial Examples via Projected Sinkhorn Iterations](https://arxiv.org/abs/1902.07906) (2019)
+- [Spatially Transformed Adversarial Examples](https://arxiv.org/abs/1801.02612) (ICLR 2018)
+- [Scaling provable adversarial defenses](https://arxiv.org/abs/1805.12514) (NIPS 2018)
+- [Adversarial Defense by Stratified Convolutional Sparse Coding](https://arxiv.org/abs/1812.00037) (CVPR 2019)
+
+### 2019-03-19
+- [Differentially Private Releasing via Deep Generative Model](https://arxiv.org/abs/1801.01594) (2018)
+- [Differentially Private Generative Adversarial Network](https://arxiv.org/abs/1802.06739) (2018)
+- [Wasserstein GAN](https://arxiv.org/abs/1701.07875) (2017)
+- [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028) (NIPS 2017)
+
 ### 2019-03-17
 - [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697) (ASIACCS 2017)
 - [Network In Network](https://arxiv.org/abs/1312.4400) (ICLR 2014)
