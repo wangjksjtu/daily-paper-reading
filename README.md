@@ -3,17 +3,28 @@ Recording the papers I read every day
 
 ## Paper
 
+### 2019-03-22
+- [On the Robustness of Deep K-Nearest Neighbors](https://arxiv.org/abs/1903.08333) (2019)
+
+
+### 2019-03-21
+- [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133) (CCS 2016)
+- [Private Synthetic Data Generation via GANs](https://d253pvgap36xx8.cloudfront.net/formsbuilder/files/d1990068969211e8a29a0242ac110002/main.pdf) (dp-challenge 2018 winner)
+
+
 ### 2019-03-20
 - [Wasserstein Adversarial Examples via Projected Sinkhorn Iterations](https://arxiv.org/abs/1902.07906) (2019)
 - [Spatially Transformed Adversarial Examples](https://arxiv.org/abs/1801.02612) (ICLR 2018)
 - [Scaling provable adversarial defenses](https://arxiv.org/abs/1805.12514) (NIPS 2018)
 - [Adversarial Defense by Stratified Convolutional Sparse Coding](https://arxiv.org/abs/1812.00037) (CVPR 2019)
 
+
 ### 2019-03-19
 - [Differentially Private Releasing via Deep Generative Model](https://arxiv.org/abs/1801.01594) (2018)
 - [Differentially Private Generative Adversarial Network](https://arxiv.org/abs/1802.06739) (2018)
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875) (2017)
 - [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028) (NIPS 2017)
+
 
 ### 2019-03-17
 - [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697) (ASIACCS 2017)
@@ -25,15 +36,18 @@ Recording the papers I read every day
 - [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401) (CVPR 2017)
 - [Transferable Adversarial Attacks for Image and Video Object Detection](https://arxiv.org/abs/1811.12641) (2018)
 
+
 ### 2019-02-11
 - [CAAD 2018: Generating Transferable Adversarial Examples](https://arxiv.org/pdf/1811.03456.pdf) (2018) - [[code]](https://arxiv.org/pdf/1811.03456.pdf) [[rankings]](http://hof.geekpwn.org/caad/en/index.html)
 - [CAAD 2018: Iterative Ensemble Adversarial Attack](https://arxiv.org/pdf/1811.03456.pdf) (2018)
 - [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204) (2017)
 - [Mitigating Adversarial Effects Through Randomization](https://arxiv.org/abs/1711.01991) (ICLR 2018) - [[code]](https://github.com/cihangxie/NIPS2017_adv_challenge_defense)
 
+
 ### 2019-02-09
 - [Feature Denoising for Improving Adversarial Robustness](https://arxiv.org/abs/1812.03411) (2018) - [[code]](https://github.com/facebookresearch/ImageNet-Adversarial-Training)
 - [Curriculum Adversarial Training](https://arxiv.org/pdf/1805.04807.pdf) (IJCAI 2018)
+
 
 ### 2019-02-02
 - [Deep Semantic Role Labeling: What Works and What’s Next](http://aclweb.org/anthology/P17-1044) (ACL 2017) - [[talk]](https://www.youtube.com/watch?v=aptipHMTmmk) [[code]](https://github.com/luheng/deep_srl)
