@@ -5,6 +5,7 @@ Recording the papers I read every day
 
 ### 2019-03-22
 - [On the Robustness of Deep K-Nearest Neighbors](https://arxiv.org/abs/1903.08333) (2019)
+- [Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning](https://arxiv.org/abs/1803.04765) (2018)
 
 
 ### 2019-03-21
